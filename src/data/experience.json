@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Eventful Encounters",
+        "description": "A platform where I list handpicked niche local activities that I have tailored for my friend group's interests. ",
+        "year": "2023",
+        "image": "/src/assets/eventful_encounters.png",
+        "link": "https://eventful-encounters.vercel.app/"
+
+    },
+    {
+        "title": "Ke-massa",
+        "description": "The landing page for an Agri-Tech platform with Integrated supply chain management that connects farmers with businesses leveraging technology.",
+        "year": "2022",
+        "image": "/src/assets/kemassa.png",
+        "link": "https://ke-massa.com/"
+    },
+    {
+        "title": "Chapa AI",
+        "description": "The landing page for Chapa's AI research that covers the full spectrum of topics related to Finance, AI, and to deriving knowledge from data",
+        "year": "2021",
+        "image": "/src/assets/chapa_ai.png",
+        "link": "https://ai.chapa.co/"
+    }
+]
